@@ -69,6 +69,3 @@ src/
     └── supabase/         # Supabase client configuration
 ```
 
-## License
-
-MIT
